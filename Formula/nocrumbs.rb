@@ -2,7 +2,7 @@ class Nocrumbs < Formula
   desc "Trace every AI code change back to the prompt that caused it"
   homepage "https://nocrumbs.ai"
   url "https://github.com/geneyoo/nocrumbs/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "1679a362b66875a9450f950d76e0e990ac431257437f7ffc3d9b1978aaf31d22"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
