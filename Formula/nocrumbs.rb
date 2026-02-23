@@ -1,8 +1,8 @@
 class Nocrumbs < Formula
-  desc "Trace every AI code change back to the prompt that caused it"
+  desc "Catch every crumb your agent leaves behind"
   homepage "https://nocrumbs.ai"
-  url "https://github.com/geneyoo/nocrumbs/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "1679a362b66875a9450f950d76e0e990ac431257437f7ffc3d9b1978aaf31d22"
+  url "https://github.com/geneyoo/nocrumbs/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "1b70ee54e794d13c00a48b41a9f8f2d84be8ffad4e289c3550cda5ab7bb3e280"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
