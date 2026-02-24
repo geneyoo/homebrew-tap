@@ -1,6 +1,6 @@
 cask "nocrumbs" do
-  version "0.4.9"
-  sha256 "571e0e571abb11e0273ab472e87a8c849dca2f70fdc4a5b9f33238328c137d08"
+  version "0.5.0"
+  sha256 "0a212ee2a739a6c27230bfee21b8f12669a74822ae272e8a1161503c05d6ac49"
 
   url "https://github.com/geneyoo/nocrumbs/releases/download/v#{version}/NoCrumbs-#{version}.zip"
   name "NoCrumbs"
